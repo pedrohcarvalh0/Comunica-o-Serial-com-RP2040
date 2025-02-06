@@ -64,9 +64,6 @@ Este projeto foi desenvolvido para o Raspberry Pi Pico W e implementa diversas f
    - Através da extensão do Raspberry Pi Pico Project no VS Code, é possível enviar o código para a placa clicando em "Run Project (USB)".
    - Caso não consiga enviar diretamente, copie o arquivo `.uf2` gerado para a unidade montada.
 
-4. Caso não tenha a placa, é possível simular o sistema:
-   - Compile o código.
-   - Clique no arquivo `diagram.json` e inicie a simulação.
 ```
 
 ## 🎥 Demonstração
